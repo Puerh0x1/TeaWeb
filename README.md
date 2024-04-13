@@ -1,9 +1,9 @@
 # TeaWeb
 ![image](https://github.com/Puerh0x1/TeaWeb/assets/162372951/c2a9794b-698c-4ae0-ae9e-fd131e703d6b)
 
-### Modern, Customizable Multi-threaded Subdomains and Directory Links Fuzzer
+### Ultrafast Modern, Customizable Multi-threaded Subdomains and Directory Links Fuzzer
 
-Современный кастомизируемый многопоточный фаззер субдоменов и директорий.
+Сверх-быстрый современный кастомизируемый многопоточный фаззер субдоменов и директорий.
 
 
 ## Особенности
